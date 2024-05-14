@@ -109,13 +109,22 @@ Based on the visualization above, it can be seen that **DKI Jakarta Province has
    
    Based on the visualization above, **the highest number of COVID-19 cases found per day is centered on the island of Java** with **the number of cases penetrating up to 4 million cases per day**. The comparison looks very striking when compared to the total discovery of COVID 19 cases per day on other islands. This shows that the results of the visualization above are in accordance with the previous analysis where the 5 provinces with the most total COVID-19 cases found per day are on the island of Java.
 
-5. Which province has the highest daily cure rate?
-    
-9. How About The Correlation between New Deaths and New Recovery?
+4. Which province has the highest daily cure rate?
+
+   <img src="https://github.com/khanshafiira/Project_CRISP-DM/assets/166186201/ebc6231c-96dd-44a1-a4d5-9b2d7d9b43f5" width="550" height="250">
+
+   Based on the visualization above, it can be seen that **DKI Jakarta province is superior in the daily recovery rate of 1,386,059**, which is almost nine times that of Riau province which occupies the bottom position in the number of COVID 19 cases recovered per day which is 147,972.
    
-Fourth
-   ![image](https://github.com/khanshafiira/Project_CRISP-DM/assets/166186201/ebc6231c-96dd-44a1-a4d5-9b2d7d9b43f5)
+5. How About The Correlation between New Deaths and New Recovery?
+   
+   <img src="https://github.com/khanshafiira/Project_CRISP-DM/assets/166186201/730688a5-9d71-453a-a9be-16c5d8504bb7" width="400" height="300">
 
-Fifth
+   Based on the visualization above, the graph represents data related to a disease, namely COVID-19, and shows how these two variables are related to each other. Scattered blue dots show daily data. In the lower left corner, there are many points with low numbers of deaths and recoveries. However, the more new deaths, the more new recoveries. so it can be concluded that **there is a positive correlation between death and recovery**. As the outbreak spreads, both deaths and recoveries increase. However, variability remains, and further action is needed to manage this.
 
-![image](https://github.com/khanshafiira/Project_CRISP-DM/assets/166186201/730688a5-9d71-453a-a9be-16c5d8504bb7)
+## Summary
+Based on the Covid-19 data obtained, the following conclusions can be drawn:
+1. The visualization indicates a surge in COVID-19 cases starting from mid-February 2022, with a peak on February 16th, recording 64,718 cases. Subsequent days saw fluctuations but remained high.
+2. In terms of provinces, DKI Jakarta leads with 1,412,474 total daily cases, followed by West Java, Central Java, East Java, and Banten.
+3. The concentration of cases on Java, exceeding 4 million per day, is evident, aligning with previous analyses showing Java's prominence.
+4. DKI Jakarta demonstrates a significantly higher daily recovery rate compared to other provinces, with 1,386,059 recoveries, emphasizing its superior healthcare infrastructure.
+5. So, it can be concluded that there is a positive correlation between death and recovery. As the outbreak spreads, both deaths and recoveries increase. However, variability remains, and further action is needed to manage this outbreak.
