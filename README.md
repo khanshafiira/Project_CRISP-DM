@@ -1,7 +1,7 @@
 # Covid-19
 
 ## Case Summary
-Unraveling Indonesia's Covid-19 Puzzle: A CRISP-DM Journey from Data to Insights
+**"Unraveling Indonesia's Covid-19 Puzzle: A CRISP-DM Journey from Data to Insights"**
 
 - Objective Statement:
   - Get business insight about the date that has the highest number of new Covid-19 cases reported in one day.
@@ -89,19 +89,31 @@ The processes carried out include:
 3. After cleansing, the dataset now has 20 columns
 
 ## Exploratory Data Analysis
-1. First Question
-   ![image](https://github.com/khanshafiira/Project_CRISP-DM/assets/166186201/bea238ec-d5e7-4707-a9cc-0a8d46aa7b25)
+1. On what date was the highest number of new COVID-19 cases reported in one day?
+   
+   <img src="https://github.com/khanshafiira/Project_CRISP-DM/assets/166186201/bea238ec-d5e7-4707-a9cc-0a8d46aa7b25" width="500" height="290">
 
-2. Second
-   ![image](https://github.com/khanshafiira/Project_CRISP-DM/assets/166186201/08b3b411-de60-4cd8-b7d8-4c886055c120)
+Based on the visualization above, it can be observed that the growth in cases began around mid-February 2022, specifically on February 15th. There was a significant spike on **February 16th, 2022**, where **the highest number of new COVID-19 cases in a single day was recorded**, totaling **64,718 cases**. Subsequently, there was a decline from February 17th to February 22nd, followed by an increase again on February 23rd. Then, on February 24th, the number of cases decreased once more.
 
-3. Third
-   ![image](https://github.com/khanshafiira/Project_CRISP-DM/assets/166186201/0a22003b-5307-467b-98a9-3eb0f987530f)
+From the table and visualization data above, it is evident that the top 8 dates with the highest number of COVID-19 cases per day are in February 2022.
 
-4. Fourth
+2. Which province has the highest number of new cases per day?
+   <img src="https://github.com/khanshafiira/Project_CRISP-DM/assets/166186201/08b3b411-de60-4cd8-b7d8-4c886055c120" width="500" height="290">
+
+Based on the visualization above, it can be seen that **DKI Jakarta Province has the highest total cases per day of 1,412,474 cases**, followed by the Provinces of West Java, Central Java, East Java, and Banten.
+   
+3. Which island has the highest number of COVID 19 cases per day?
+   <img src="https://github.com/khanshafiira/Project_CRISP-DM/assets/166186201/0a22003b-5307-467b-98a9-3eb0f987530f" width="400" height="350">
+   
+   Based on the visualization above, **the highest number of COVID-19 cases found per day is centered on the island of Java** with **the number of cases penetrating up to 4 million cases per day**. The comparison looks very striking when compared to the total discovery of COVID 19 cases per day on other islands. This shows that the results of the visualization above are in accordance with the previous analysis where the 5 provinces with the most total COVID-19 cases found per day are on the island of Java.
+
+4. Which province has the highest daily cure rate?
+    
+9. How About The Correlation between New Deaths and New Recovery?
+   
+Fourth
    ![image](https://github.com/khanshafiira/Project_CRISP-DM/assets/166186201/ebc6231c-96dd-44a1-a4d5-9b2d7d9b43f5)
 
-5. Fifth
+Fifth
 
 ![image](https://github.com/khanshafiira/Project_CRISP-DM/assets/166186201/730688a5-9d71-453a-a9be-16c5d8504bb7)
-
